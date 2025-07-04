@@ -1,0 +1,15 @@
+1. 김도영
+ - 가장 최근 주문 음료 : Non Alcohol
+ - 자주 마시는 음료 : Blue Hawaii
+
+2. 이정환
+ - 가장 최근 주문 음료 : Non Alcohol
+ - 자주 마시는 음료 : Non Alcohol
+
+3. 정은영
+ - 가장 최근 주문 음료 : Margarita
+ - 자주 마시는 음료 : China Red
+ 
+4. 조동현
+ - 가장 최근 주문 음료 : Blue Hawaii
+ - 자주 마시는 음료 : Margarita

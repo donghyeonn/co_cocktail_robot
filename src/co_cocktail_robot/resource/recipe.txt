@@ -1,0 +1,12 @@
+1. margarita
+    - 기쁠 때 먹는 음료
+    - 재료 : tequila, green-juice
+2. China Red
+    - 화날 때 먹는 음료
+    - 재료 : tequila, red-juice
+3. Blue Hawaii
+    - 우울하거나 슬플 때 먹는 음료
+    - 재료 : tequila, blue-juice
+4. Non Alcohol
+    - 기분이 보통일 때 먹는 음료
+    - 재료 : green-juice, blue-juice

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Margarita",
+    "description": "기쁠 때 먹는 음료",
+    "ingredients": [
+      "tequila",
+      "green-juice"
+    ]
+  },
+  {
+    "name": "China Red",
+    "description": "화날 때 먹는 음료",
+    "ingredients": [
+      "tequila",
+      "red-juice"
+    ]
+  },
+  {
+    "name": "Blue Hawaii",
+    "description": "우울하거나 슬플 때 먹는 음료",
+    "ingredients": [
+      "tequila",
+      "blue-juice"
+    ]
+  },
+  {
+    "name": "Non Alcohol",
+    "description": "기분이 보통이거나 공부할 때 먹는 음료",
+    "ingredients": [
+      "red-juice",
+      "blue-juice"
+    ]
+  }
+]
